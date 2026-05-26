@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$password = "";
-$database = "assignment_portal";
+$host = "sql209.byetcluster.com";
+$user = "if0_42023731";
+$password = "NBl1ke9MSyOxrx4";
+$database = "if0_42023731_assignment";
 
 $conn = new mysqli($host, $user, $password, $database);
 

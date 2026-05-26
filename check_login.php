@@ -1,5 +1,7 @@
 <?php
 session_start();
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 include "config/db.php";
 
 $username = $_POST['username'];
@@ -10,7 +12,7 @@ $result = $conn->query($sql);
 
 if ($result->num_rows == 1) {
     $row = $result->fetch_assoc();
-    
+
     $_SESSION['user_id'] = $row['id'];
     $_SESSION['username'] = $row['username'];
     $_SESSION['role'] = $row['role'];
