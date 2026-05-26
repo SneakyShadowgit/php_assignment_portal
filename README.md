@@ -156,7 +156,7 @@ This project is for **educational purposes** only.
 
 ## 👤 Author
 
-**Your Name**
+**Harikrishna P**
 - GitHub: [@SneakyShadowgit](https://github.com/SneakyShadowgit)
 
 ---
