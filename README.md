@@ -152,3 +152,13 @@ The database `assignment_portal` contains the following tables:
 ## 📄 License
 
 This project is for **educational purposes** only.
+
+
+## 👤 Author
+
+**Your Name**
+- GitHub: [@SneakyShadowgit](https://github.com/SneakyShadowgit)
+
+---
+
+> Made with ❤️ using Flutter
