@@ -161,4 +161,3 @@ This project is for **educational purposes** only.
 
 ---
 
-> Made with ❤️ using Flutter
