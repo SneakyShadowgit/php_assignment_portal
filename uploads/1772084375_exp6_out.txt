@@ -1,0 +1,136 @@
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 1 
+Enter value: 30
+Node inserted at beginning
+
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 1
+Enter value: 10
+Node inserted at beginning
+
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 2
+Enter value: 40
+Node inserted at last
+
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 3
+Enter value after which to insert: 10
+Enter new value: 20
+Node inserted after 10
+
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 4
+Node deleted from beginning
+
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 5
+Node deleted from last
+
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 6
+Enter value to delete: 20
+Node deleted
+
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 7
+Enter element to search: 30
+Element found at position 1
+
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 8
+Linked List: 30 -> NULL
+
+--- LINKED LIST MENU ---
+1. Insert at beginning
+2. Insert at last
+3. Insert after a given node
+4. Delete from beginning
+5. Delete from last
+6. Delete a specified node
+7. Search an element
+8. Display
+9. Exit
+Enter your choice: 9
+Exiting program
