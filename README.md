@@ -1,6 +1,6 @@
 # 📚 Assignment Portal (PHP/MySQL)
 
-A web-based **Assignment Management System** built with PHP and MySQL. It supports three user roles — **Admin**, **Teacher**, and **Student** — each with a dedicated dashboard and feature set.
+A web-based **Assignment Management System** built with PHP and MySQL, running on XAMPP. It supports three user roles — **Admin**, **Teacher**, and **Student** — each with a dedicated dashboard and feature set.
 
 ---
 
@@ -107,7 +107,7 @@ assignment_portal/
 
 5. **Open the application** in your browser:
    ```
-   https://assignment-portal-php.infinityfreeapp.com/assignment_portal/login.php
+   http://localhost/assignment_portal/login.php
    ```
 
 ---
